@@ -1,4 +1,4 @@
-# Project 2: Big Data Analysis of Google Playstore Using PySpark and SQL in Databricks
+# Project : Big Data Analysis of Google Playstore Using PySpark and SQL in Databricks
 ## Objective:
 Analyzed large-scale data from the Google Playstore to derive actionable insights using PySpark and SQL. Created an interactive dashboard for visualization.
 
